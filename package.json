@@ -1,0 +1,11 @@
+{
+  "name": "int-u2l3-24-25-student-exercises",
+  "version": "1.0.0",
+  "description": "## 🎯 Objectives - Understand the purpose and structure of CSS. - Learn how to select and style HTML elements using CSS. - Gain hands-on experience with various CSS properties and values.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
